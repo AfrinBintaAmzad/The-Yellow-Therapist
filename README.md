@@ -1,8 +1,8 @@
 # The-Yellow-Therapist
 
 ## Technology Used:
-- html, 
-- CSS &
+- html
+- CSS 
 - Javascript
 
 Objective: <br>
