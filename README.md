@@ -12,5 +12,4 @@ https://yellow-therapist-byafrinbintaamzad.netlify.app/
 
 ![screencapture-yellow-therapist-byafrinbintaamzad-netlify-app-2023-03-27-10_38_06](https://user-images.githubusercontent.com/83439797/227842270-43245652-63b1-4db6-bd74-dfaae3df9dad.png)
 
-https://user-images.githubusercontent.com/83439797/227841784-a110fc69-fada-4568-bbc6-104f68d49e78.mp4
 
